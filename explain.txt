@@ -1,0 +1,21 @@
+react-router-dom v6
+    BrowserRouter ==> (enable routing )
+    Routes ==> Parent of Routs
+    Route  ==> set path & component
+    Outlet
+    Navigate
+    Link ==> Navigate from one page to other in (Single page Logic) JSX
+
+    useParams 
+        ==> to get dynamic data from uri ===> /:id
+        ==> { id: sadasaf }
+    useNavigate ==> Navigate from one page to other in (Single page Logic) js Code
+
+
+    Login 
+        JWT ===> JSON WEB TOKEN
+
+    
+    // initialization ==> component created
+    // mounting ===> component loaded
+    // useEffect ==> hook it runs on side-effect in component

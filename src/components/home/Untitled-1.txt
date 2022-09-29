@@ -1,0 +1,22 @@
+content: "Start your day with exclusive breakfast options"
+image: "assets/breakfast.jpg"
+meal_type: 1
+name: "Breakfast"
+__v: 0
+_id: "62c18effd8264e2ebaab5fde"
+
+
+city: "Pune"
+city_id: 2
+country_name: "India"
+location_id: 4
+name: "MSP"
+__v: 0
+_id: "62c18f16d8264e2eb
+
+
+city: "Delhi"
+image: "assets/breakfast.png"
+locality: "Shalimar Bagh"
+name: "Domino's"
+_id: 
